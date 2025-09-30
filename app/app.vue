@@ -1,6 +1,6 @@
 <template>
   <u-app>
     <NuxtRouteAnnouncer />
-    <u-button>Click me!</u-button>
+    <nuxt-page />
   </u-app>
 </template>
